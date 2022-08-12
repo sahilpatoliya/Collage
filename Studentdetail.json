@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "email": "hardik@git.org.in",
+      "no": "200120",
+      "department": "it",
+      "joinyear": 2018,
+      "endyear": 2022,
+      "role": 0
+    },
+    {
+      "email": "harshil@git.org.in",
+      "no": "200121",
+      "department": "ce",
+      "joinyear": 2018,
+      "endyear": 2022,
+      "role": 0
+    },
+    {
+      "email": "bhavik@git.org.in",
+      "no": "200122",
+      "department": "bca",
+      "joinyear": 2018,
+      "endyear": 2022,
+      "role": 0
+    },
+    {
+      "email": "ankit@git.org.in",
+      "no": "200123",
+      "department": "bca",
+      "joinyear": 2018,
+      "endyear": 2022,
+      "role": 0
+    },
+    {
+      "email": "akshay@git.org.in",
+      "no": "200124",
+      "department": "ce",
+      "joinyear": 2018,
+      "endyear": 2022,
+      "role": 0
+    },
+    {
+      "email": "sahil@git.org.in",
+      "role": 1
+    },
+    {
+      "email": "kaushiksir@git.org.in",
+      "role": 2
+    }
+  ]
+}
